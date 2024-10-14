@@ -1,0 +1,7 @@
+O print no ipynb agora é display pois mostra a tabela de forma mais organizada
+
+O comando tabela.drop(columns=" ") -> retira uma coluna
+
+O comando tabela.dropna() -> retira as linhas com informações vazias
+
+O comando tabela = tabela.drop_duplicates() -> retira todas as informações duplicadas
