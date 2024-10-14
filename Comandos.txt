@@ -1,3 +1,14 @@
+bibliotecas que você ira usar em uma análise de dados: pandas, numpy, openpyxl, nbformat ,ipykernel e plotly  
+
+!pip install pandas numpy openpyxl nbformat ipykernel plotly   
+
+bibliotecas usadas nessa análise
+
+     pandas -> trabalhar com base de dados
+
+     plotly -> trabalhar com gráficos dinâmicos no python
+
+
 O print no ipynb agora é display pois mostra a tabela de forma mais organizada
 
 O comando tabela.drop(columns=" ") -> retira uma coluna
